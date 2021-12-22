@@ -1,4 +1,4 @@
-# Spring AOP의 실전 예제, 한계, 해결방안 등을 학습한 내용입니다.
+# Spring AOP를 학습한 내용을 정리했습니다.
 
 ### [Spring AOP](/src/main/java/hello/aop)
 
