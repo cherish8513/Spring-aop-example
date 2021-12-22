@@ -1,6 +1,6 @@
 # Spring AOP의 실전 예제, 한계, 해결방안 등을 학습한 내용입니다.
 
-### Spring AOP(/src/main/java/hello/aop/)
+### Spring AOP(/src/main/java/hello/aop)
 
 |진행상태|학습시간|학습내용|설명|
 | ------ | ------ |  ------ | ------ |
